@@ -1,0 +1,5 @@
+README
+
+The purpose of the program is to provide help for a student to find  assstance with a subject in school. The user will be able to search for a subject that she is interested in ,and  the program will find that subject and display all the available sources for assistance. The program will have the option to add more subject(s) or sources for assistance, it will be able to display all, display only the top rated , and delete subjects and sources that are irrelevant.    The program uses ADT and Data Structures . 
+
+
